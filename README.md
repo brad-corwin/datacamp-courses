@@ -1,2 +1,2 @@
-# datacamp-courses
+# DataCamp Courses
 Single courses from DataCamp
